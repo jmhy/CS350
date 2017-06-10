@@ -1,5 +1,3 @@
-By Joseph Haggerty, jmh463@drexel.edu
-
 This folder contains the project files for Homework 1 Part 3 for CS 350.
 Import the project into Eclipse and the entry point will be contained in Main.java.
 Surveys are stored in the "surveys" folder, tests in the "tests" folder.
